@@ -3,7 +3,7 @@ React is made of components
 ##
 Components is a UI that has it own logic and appearance
 ##
-React is a javascript function that returns markup
+React Component is a javascript function that returns markup
 
 Component ex- 
 
